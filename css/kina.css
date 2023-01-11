@@ -1,0 +1,14 @@
+.kina {
+    background-color: red;
+    color: yellow;
+    width: min(80ch, 100vw - 2rem);
+    margin-inline: auto;
+    
+}
+.amerika {
+    background: linear-gradient(45deg,   blue, red);
+    color: rgb(255, 255, 255);
+    width: min(80ch, 100vw - 2rem);
+    margin-inline: auto;
+    
+}
